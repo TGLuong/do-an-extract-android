@@ -1,0 +1,7 @@
+adware=1415
+banking=1900
+benign=1911
+riskware=2262
+smsmalware=4722
+
+sum=12210

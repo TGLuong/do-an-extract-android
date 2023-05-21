@@ -1,0 +1,6 @@
+benign = 2904
+adware = 1875
+botnet = 667
+ransomeware = 1307
+scareware = 1502
+smsmalware = 3938

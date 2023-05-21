@@ -1,0 +1,6 @@
+benign = 97
+adware = 94
+botnet = 106
+ransomware = 91
+scareware = 102
+smsmalware = 99
